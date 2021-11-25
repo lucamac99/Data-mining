@@ -1,0 +1,802 @@
+[
+ {
+  "id": "Cond1",
+  "name": "Blood poisoning (sepsis)"
+ },
+ {
+  "id": "Cond2",
+  "name": "HIV"
+ },
+ {
+  "id": "Cond3",
+  "name": "Mouth cancer"
+ },
+ {
+  "id": "Cond4",
+  "name": "Angioedema"
+ },
+ {
+  "id": "Cond5",
+  "name": "Cirrhosis"
+ },
+ {
+  "id": "Cond6",
+  "name": "Bile duct cancer (cholangiocarcinoma)"
+ },
+ {
+  "id": "Cond7",
+  "name": "Germ cell tumours"
+ },
+ {
+  "id": "Cond8",
+  "name": "Motor neurone disease (MND)"
+ },
+ {
+  "id": "Cond9",
+  "name": "Flu"
+ },
+ {
+  "id": "Cond10",
+  "name": "Gallstones"
+ },
+ {
+  "id": "Cond11",
+  "name": "Kidney infection"
+ },
+ {
+  "id": "Cond12",
+  "name": "Dystonia"
+ },
+ {
+  "id": "Cond13",
+  "name": "Cervical cancer"
+ },
+ {
+  "id": "Cond14",
+  "name": "Asthma"
+ },
+ {
+  "id": "Cond15",
+  "name": "Genital herpes"
+ },
+ {
+  "id": "Cond16",
+  "name": "Acute myeloid leukaemia: Teenagers and young adults"
+ },
+ {
+  "id": "Cond17",
+  "name": "Earwax build-up"
+ },
+ {
+  "id": "Cond18",
+  "name": "Fever in adults"
+ },
+ {
+  "id": "Cond19",
+  "name": "Indigestion"
+ },
+ {
+  "id": "Cond20",
+  "name": "Mouth ulcer"
+ },
+ {
+  "id": "Cond21",
+  "name": "Acne"
+ },
+ {
+  "id": "Cond22",
+  "name": "Loss of libido"
+ },
+ {
+  "id": "Cond23",
+  "name": "Flatulence"
+ },
+ {
+  "id": "Cond24",
+  "name": "Cold sore"
+ },
+ {
+  "id": "Cond25",
+  "name": "Malaria"
+ },
+ {
+  "id": "Cond26",
+  "name": "Chlamydia"
+ },
+ {
+  "id": "Cond27",
+  "name": "Hyperhidrosis"
+ },
+ {
+  "id": "Cond28",
+  "name": "Attention deficit hyperactivity disorder (ADHD)"
+ },
+ {
+  "id": "Cond29",
+  "name": "Deafblindness"
+ },
+ {
+  "id": "Cond30",
+  "name": "Acute myeloid leukaemia"
+ },
+ {
+  "id": "Cond31",
+  "name": "Acute myeloid leukaemia: Children"
+ },
+ {
+  "id": "Cond32",
+  "name": "Hearing loss"
+ },
+ {
+  "id": "Cond33",
+  "name": "Acute lymphoblastic leukaemia"
+ },
+ {
+  "id": "Cond34",
+  "name": "Liver cancer"
+ },
+ {
+  "id": "Cond35",
+  "name": "Chest pain"
+ },
+ {
+  "id": "Cond36",
+  "name": "Eye cancer"
+ },
+ {
+  "id": "Cond37",
+  "name": "Malignant brain tumour (cancerous)"
+ },
+ {
+  "id": "Cond38",
+  "name": "Head and neck cancer"
+ },
+ {
+  "id": "Cond39",
+  "name": "Chickenpox"
+ },
+ {
+  "id": "Cond40",
+  "name": "Fibroids"
+ },
+ {
+  "id": "Cond41",
+  "name": "Hepatitis B"
+ },
+ {
+  "id": "Cond42",
+  "name": "Chronic fatigue syndrome"
+ },
+ {
+  "id": "Cond43",
+  "name": "Dermatitis herpetiformis"
+ },
+ {
+  "id": "Cond44",
+  "name": "Leg cramps"
+ },
+ {
+  "id": "Cond45",
+  "name": "Food poisoning"
+ },
+ {
+  "id": "Cond46",
+  "name": "Constipation"
+ },
+ {
+  "id": "Cond47",
+  "name": "Ewing sarcoma"
+ },
+ {
+  "id": "Cond48",
+  "name": "Hepatitis C"
+ },
+ {
+  "id": "Cond49",
+  "name": "Kaposi's sarcoma"
+ },
+ {
+  "id": "Cond50",
+  "name": "Atopic eczema"
+ },
+ {
+  "id": "Cond51",
+  "name": "Bronchitis"
+ },
+ {
+  "id": "Cond52",
+  "name": "Irritable hip"
+ },
+ {
+  "id": "Cond53",
+  "name": "Coronavirus (COVID-19)"
+ },
+ {
+  "id": "Cond54",
+  "name": "Mesothelioma"
+ },
+ {
+  "id": "Cond55",
+  "name": "Dementia with Lewy bodies"
+ },
+ {
+  "id": "Cond56",
+  "name": "Lymphoedema"
+ },
+ {
+  "id": "Cond57",
+  "name": "Gonorrhoea"
+ },
+ {
+  "id": "Cond58",
+  "name": "Gout"
+ },
+ {
+  "id": "Cond59",
+  "name": "Laryngeal (larynx) cancer"
+ },
+ {
+  "id": "Cond60",
+  "name": "Bulimia"
+ },
+ {
+  "id": "Cond61",
+  "name": "Crohn's disease"
+ },
+ {
+  "id": "Cond62",
+  "name": "Congenital heart disease"
+ },
+ {
+  "id": "Cond63",
+  "name": "Hyperglycaemia (high blood sugar)"
+ },
+ {
+  "id": "Cond64",
+  "name": "Glandular fever"
+ },
+ {
+  "id": "Cond65",
+  "name": "Ebola virus disease"
+ },
+ {
+  "id": "Cond66",
+  "name": "Acute pancreatitis"
+ },
+ {
+  "id": "Cond67",
+  "name": "Gastroenteritis"
+ },
+ {
+  "id": "Cond68",
+  "name": "Chronic myeloid leukaemia"
+ },
+ {
+  "id": "Cond69",
+  "name": "Epilepsy"
+ },
+ {
+  "id": "Cond70",
+  "name": "Langerhans cell histiocytosis"
+ },
+ {
+  "id": "Cond71",
+  "name": "Breast cancer (female)"
+ },
+ {
+  "id": "Cond72",
+  "name": "Dizziness (Lightheadedness)"
+ },
+ {
+  "id": "Cond73",
+  "name": "Hepatitis A"
+ },
+ {
+  "id": "Cond74",
+  "name": "Lung cancer"
+ },
+ {
+  "id": "Cond75",
+  "name": "Multiple sclerosis (MS)"
+ },
+ {
+  "id": "Cond76",
+  "name": "Laryngitis"
+ },
+ {
+  "id": "Cond77",
+  "name": "Meningitis"
+ },
+ {
+  "id": "Cond78",
+  "name": "Dry mouth"
+ },
+ {
+  "id": "Cond79",
+  "name": "Arthritis"
+ },
+ {
+  "id": "Cond80",
+  "name": "Lactose intolerance"
+ },
+ {
+  "id": "Cond81",
+  "name": "Gum disease"
+ },
+ {
+  "id": "Cond82",
+  "name": "Autistic spectrum disorder (ASD)"
+ },
+ {
+  "id": "Cond83",
+  "name": "Mumps"
+ },
+ {
+  "id": "Cond84",
+  "name": "Brain tumours"
+ },
+ {
+  "id": "Cond85",
+  "name": "Hand, foot and mouth disease"
+ },
+ {
+  "id": "Cond86",
+  "name": "Down's syndrome"
+ },
+ {
+  "id": "Cond87",
+  "name": "Genital warts"
+ },
+ {
+  "id": "Cond88",
+  "name": "Measles"
+ },
+ {
+  "id": "Cond89",
+  "name": "Allergic rhinitis"
+ },
+ {
+  "id": "Cond90",
+  "name": "Croup"
+ },
+ {
+  "id": "Cond91",
+  "name": "Lupus"
+ },
+ {
+  "id": "Cond92",
+  "name": "Inherited heart conditions"
+ },
+ {
+  "id": "Cond93",
+  "name": "Hodgkin lymphoma: Teenagers and young adults"
+ },
+ {
+  "id": "Cond94",
+  "name": "Kidney cancer"
+ },
+ {
+  "id": "Cond95",
+  "name": "Brain tumours: Teenagers and young adults"
+ },
+ {
+  "id": "Cond96",
+  "name": "Acute lymphoblastic leukaemia: Children"
+ },
+ {
+  "id": "Cond97",
+  "name": "Multiple myeloma"
+ },
+ {
+  "id": "Cond98",
+  "name": "Catarrh"
+ },
+ {
+  "id": "Cond99",
+  "name": "Haemorrhoids (piles)"
+ },
+ {
+  "id": "Cond100",
+  "name": "Hodgkin lymphoma: Children"
+ },
+ {
+  "id": "Cond101",
+  "name": "Diarrhoea"
+ },
+ {
+  "id": "Cond102",
+  "name": "Labyrinthitis"
+ },
+ {
+  "id": "Cond103",
+  "name": "Malnutrition"
+ },
+ {
+  "id": "Cond104",
+  "name": "Acute cholecystitis"
+ },
+ {
+  "id": "Cond105",
+  "name": "Earache"
+ },
+ {
+  "id": "Cond106",
+  "name": "Menopause"
+ },
+ {
+  "id": "Cond107",
+  "name": "Bladder cancer"
+ },
+ {
+  "id": "Cond108",
+  "name": "Hairy cell leukaemia"
+ },
+ {
+  "id": "Cond109",
+  "name": "Hiatus hernia"
+ },
+ {
+  "id": "Cond110",
+  "name": "Cellulitis"
+ },
+ {
+  "id": "Cond111",
+  "name": "Febrile seizures"
+ },
+ {
+  "id": "Cond112",
+  "name": "Anal cancer"
+ },
+ {
+  "id": "Cond113",
+  "name": "Gastro-oesophageal reflux disease (GORD)"
+ },
+ {
+  "id": "Cond114",
+  "name": "Escherichia coli (E. coli) O157"
+ },
+ {
+  "id": "Cond115",
+  "name": "Discoid eczema"
+ },
+ {
+  "id": "Cond116",
+  "name": "Headaches"
+ },
+ {
+  "id": "Cond117",
+  "name": "Iron deficiency anaemia"
+ },
+ {
+  "id": "Cond118",
+  "name": "Ingrown toenail"
+ },
+ {
+  "id": "Cond119",
+  "name": "Dementia"
+ },
+ {
+  "id": "Cond120",
+  "name": "Idiopathic pulmonary fibrosis"
+ },
+ {
+  "id": "Cond121",
+  "name": "Itching"
+ },
+ {
+  "id": "Cond122",
+  "name": "Breast cancer (male)"
+ },
+ {
+  "id": "Cond123",
+  "name": "Huntington's disease"
+ },
+ {
+  "id": "Cond124",
+  "name": "Bronchiectasis"
+ },
+ {
+  "id": "Cond125",
+  "name": "Asbestosis"
+ },
+ {
+  "id": "Cond126",
+  "name": "Anorexia nervosa"
+ },
+ {
+  "id": "Cond127",
+  "name": "Appendicitis"
+ },
+ {
+  "id": "Cond128",
+  "name": "Acute lymphoblastic leukaemia: Teenagers and young adults"
+ },
+ {
+  "id": "Cond129",
+  "name": "Miscarriage"
+ },
+ {
+  "id": "Cond130",
+  "name": "Common heart conditions"
+ },
+ {
+  "id": "Cond131",
+  "name": "Chronic obstructive pulmonary disease"
+ },
+ {
+  "id": "Cond132",
+  "name": "Bacterial vaginosis"
+ },
+ {
+  "id": "Cond133",
+  "name": "Ankylosing spondylitis"
+ },
+ {
+  "id": "Cond134",
+  "name": "Brain tumours: Children"
+ },
+ {
+  "id": "Cond135",
+  "name": "Brain stem death"
+ },
+ {
+  "id": "Cond136",
+  "name": "Coma"
+ },
+ {
+  "id": "Cond137",
+  "name": "Foetal alcohol syndrome"
+ },
+ {
+  "id": "Cond138",
+  "name": "Deep vein thrombosis"
+ },
+ {
+  "id": "Cond139",
+  "name": "Ganglion cyst"
+ },
+ {
+  "id": "Cond140",
+  "name": "Benign prostate enlargement"
+ },
+ {
+  "id": "Cond141",
+  "name": "Cystic fibrosis"
+ },
+ {
+  "id": "Cond142",
+  "name": "Depression"
+ },
+ {
+  "id": "Cond143",
+  "name": "Ewing sarcoma: Children"
+ },
+ {
+  "id": "Cond144",
+  "name": "Clostridium difficile"
+ },
+ {
+  "id": "Cond145",
+  "name": "Chronic pancreatitis"
+ },
+ {
+  "id": "Cond146",
+  "name": "Chilblains"
+ },
+ {
+  "id": "Cond147",
+  "name": "Ectopic pregnancy"
+ },
+ {
+  "id": "Cond148",
+  "name": "Bowel cancer"
+ },
+ {
+  "id": "Cond149",
+  "name": "Addison's disease"
+ },
+ {
+  "id": "Cond150",
+  "name": "Heart failure"
+ },
+ {
+  "id": "Cond151",
+  "name": "Liver tumours"
+ },
+ {
+  "id": "Cond152",
+  "name": "Hay fever"
+ },
+ {
+  "id": "Cond153",
+  "name": "Anaphylaxis"
+ },
+ {
+  "id": "Cond154",
+  "name": "Cough"
+ },
+ {
+  "id": "Cond155",
+  "name": "Bipolar disorder"
+ },
+ {
+  "id": "Cond156",
+  "name": "Chest infection"
+ },
+ {
+  "id": "Cond157",
+  "name": "Allergies"
+ },
+ {
+  "id": "Cond158",
+  "name": "Anxiety"
+ },
+ {
+  "id": "Cond159",
+  "name": "High cholesterol"
+ },
+ {
+  "id": "Cond160",
+  "name": "Dysphagia (swallowing problems)"
+ },
+ {
+  "id": "Cond161",
+  "name": "Hodgkin lymphoma"
+ },
+ {
+  "id": "Cond162",
+  "name": "Bunion"
+ },
+ {
+  "id": "Cond163",
+  "name": "Dehydration"
+ },
+ {
+  "id": "Cond164",
+  "name": "Endometriosis"
+ },
+ {
+  "id": "Cond165",
+  "name": "Dental abscess"
+ },
+ {
+  "id": "Cond166",
+  "name": "Head lice and nits"
+ },
+ {
+  "id": "Cond167",
+  "name": "Chronic kidney disease"
+ },
+ {
+  "id": "Cond168",
+  "name": "Alcohol-related liver disease"
+ },
+ {
+  "id": "Cond169",
+  "name": "Impetigo"
+ },
+ {
+  "id": "Cond170",
+  "name": "Lymphogranuloma venereum (LGV)"
+ },
+ {
+  "id": "Cond171",
+  "name": "Erectile dysfunction (impotence)"
+ },
+ {
+  "id": "Cond172",
+  "name": "Anxiety disorders in children"
+ },
+ {
+  "id": "Cond173",
+  "name": "Common cold"
+ },
+ {
+  "id": "Cond174",
+  "name": "Chronic lymphocytic leukaemia"
+ },
+ {
+  "id": "Cond175",
+  "name": "Lichen planus"
+ },
+ {
+  "id": "Cond176",
+  "name": "Fever in children"
+ },
+ {
+  "id": "Cond177",
+  "name": "Cystitis"
+ },
+ {
+  "id": "Cond178",
+  "name": "Hypoglycaemia (low blood sugar)"
+ },
+ {
+  "id": "Cond179",
+  "name": "Insomnia"
+ },
+ {
+  "id": "Cond180",
+  "name": "Liver disease"
+ },
+ {
+  "id": "Cond181",
+  "name": "Carcinoid syndrome and carcinoid tumours"
+ },
+ {
+  "id": "Cond182",
+  "name": "Diverticular disease and diverticulitis"
+ },
+ {
+  "id": "Cond183",
+  "name": "Migraine"
+ },
+ {
+  "id": "Cond184",
+  "name": "Bowel polyps"
+ },
+ {
+  "id": "Cond185",
+  "name": "Bowel incontinence"
+ },
+ {
+  "id": "Cond186",
+  "name": "Bone cancer: Teenagers and young adults"
+ },
+ {
+  "id": "Cond187",
+  "name": "Lyme disease"
+ },
+ {
+  "id": "Cond188",
+  "name": "Middle ear infection (otitis media)"
+ },
+ {
+  "id": "Cond189",
+  "name": "Bone cancer"
+ },
+ {
+  "id": "Cond190",
+  "name": "Itchy bottom"
+ },
+ {
+  "id": "Cond191",
+  "name": "Kidney stones"
+ },
+ {
+  "id": "Cond192",
+  "name": "Fungal nail infection"
+ },
+ {
+  "id": "Cond193",
+  "name": "Binge eating"
+ },
+ {
+  "id": "Cond194",
+  "name": "Alzheimer's disease"
+ },
+ {
+  "id": "Cond195",
+  "name": "Diabetes"
+ },
+ {
+  "id": "Cond196",
+  "name": "Irritable bowel syndrome (IBS)"
+ },
+ {
+  "id": "Cond197",
+  "name": "Fibromyalgia"
+ },
+ {
+  "id": "Cond198",
+  "name": "Coeliac disease"
+ },
+ {
+  "id": "Cond199",
+  "name": "Gallbladder cancer"
+ },
+ {
+  "id": "Cond200",
+  "name": "Conjunctivitis"
+ }
+]
