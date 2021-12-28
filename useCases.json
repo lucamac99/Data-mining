@@ -1,0 +1,16 @@
+{  
+"Cases": [
+    {
+      "patient_id": 1,
+      "condition_id": 266
+    },
+    {
+      "patient_id": 6,
+      "condition_id": 96
+    },
+    {
+      "patient_id": 10,
+      "condition_id": 27
+    }
+  ]
+}
